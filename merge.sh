@@ -197,6 +197,10 @@ sort -u merged.txt > merged_clean.txt
 # ===== Make whitelist =====
 cat <<EOF > whitelist.txt
 @@||google.com^
+@@||apple.com^
+@@||icloud.com^
+@@||onedrive.com^
+@@||yahoo.com^
 @@||gstatic.com^
 @@||cloudflare.com^
 @@||cloudflare-dns.com^
