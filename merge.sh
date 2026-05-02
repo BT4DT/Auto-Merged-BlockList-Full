@@ -4,9 +4,11 @@ rm -f merged.txt raw.txt clean.txt whitelist.txt final.txt
 
 # ===== list =====
 urls=(
-# =========== General
+# =========== ADG General
 # ===1Hosts lite
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt"
+# === X 🔴 1Hosts mini
+#https://adguardteam.github.io/Hoassets/filter_38.txt"
 # === AGuard DNS filter
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"
 # === AdGuard DNS Popup Hosts Filter
@@ -19,37 +21,79 @@ urls=(
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt"
 # === HaGeZi's Pro Blocklist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt"
+# === X 🔴 HaGeZi's Pro++ Blocklist
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt"
+# === X 🔴 HaGeZi's Ultimate Blocklist
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt"
 # === OISD Blocklist Small
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt"
+# === X 🔴 OISD Blocklist Big
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt"
 # === Peter Lowe's Blocklist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt"
 # === Steven Black's List
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt"
-# =========== Other
+# =========== ADG Other
 # === Dandelion Sprout's Anti Push Notifications
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt"
 # === Dandelion Sprout's Game Console Adblock List
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt"
+# === X 🔴 HaGeZi's Allowlist Referral
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt"
 # === HaGeZi's Anti-Piracy Blocklist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt"
 # === HaGeZi's Gambling Blocklist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt"
+# === X 🔴 HaGeZi's Samsung Tracker Blocklist
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt"
 # === HaGeZi's Windows/Office Tracker Blocklist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt"
+# === X 🔴 HaGeZi's Xiaomi Tracker Blocklist
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt"
+# === X 🔴 No Google
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt"
 # === Perflyst and Dandelion Sprout's Smart-TV Blocklist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt"
 # === ShadowWhisperer's Dating List
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt"
 # === Ukrainian Security Filter
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_62.txt"
-# =========== Regional
+# =========== ADG Regional
+# === X 🔴 CHN: AdRules DNS List
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt"
+# === X 🔴 CHN: anti-AD
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt"
+# === X 🔴 HUN: Hufilter
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_35.txt"
+# === X 🔴 IDN: ABPindo
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt"
 # === IRN: PersianBlocker list
-"https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt"
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt"
+# === X 🔴 ISR: EasyList Hebrew
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt"
+# === X 🔴 KOR: List-KR DNS
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt"
+# === X 🔴 KOR: YousList
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_15.txt"
+# === X 🔴 LIT: EasyList Lithuania
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_36.txt"
+# === X 🔴 MKD: Macedonian Pi-hole Blocklist 
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_20.txt"
+# === X 🔴 NOR: Dandelion Sprouts nordiske filtre
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_13.txt"
+# === X 🔴 POL: CERT Polska List of malicious domains
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt"
+# === X 🔴 POL: Polish filters for Pi-hole
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt"
+# === X 🔴 SWE: Frellwit's Swedish Hosts File
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt"
 # === TUR: turk-adlist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt"
 # === TUR: Turkish Ad Hosts
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt"
-# =========== Security
+# === X 🔴 VNM: ABPVN List
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt"
+# =========== ADG Security
 # === hishing URL Blocklist (PhishTank and OpenPhish
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt"
 # === Dandelion Sprout's Anti-Malware List
@@ -58,8 +102,12 @@ urls=(
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt"
 # === HaGeZi's DynDNS Blocklist
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt"
+# === X 🔴 HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt"
 # === HaGeZi's The World's Most Abused TLDs
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt"
+# === X 🔴 HaGeZi's Threat Intelligence Feeds
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt"
 # === NoCoin Filter List
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt"
 # === Phishing Army
