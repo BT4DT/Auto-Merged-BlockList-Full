@@ -243,6 +243,7 @@ cat <<EOF > whitelist.txt
 @@||calendar.google.com^$important
 @@||accounts.google.com^$important
 @@||scholar.google.com^$important
+@@||youtubei.googleapis.com^$important
 @@||maps.google.com^$important
 @@||chat.google.com^$important
 @@||translate.google.com^$important
