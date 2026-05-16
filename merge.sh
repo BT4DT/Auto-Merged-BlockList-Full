@@ -195,6 +195,24 @@ urls=(
 "https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds.txt"
 # ===  🟢 Persian -PersianBlockerHosts.txt:: Persian
 "https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerHosts.txt"
+# =========== Hagezi- Multi PRO - Extended protection
+# ===  🟢 Domains Subdomains
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt"
+# ===  🟢 Hosts
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt"
+# ===  🟢 Hosts Compressed
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro-compressed.txt"
+# ===  🟢 Adblock
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+# ===  🟢 DNSMasq
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt"
+# ===  🟢 Wildcard Asterisk
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
+# ===  🟢 Wildcard Domains
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt"
+# ===  🟢 RPZ
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt"
+# =========== END
 )
 
 # ===== download =====
