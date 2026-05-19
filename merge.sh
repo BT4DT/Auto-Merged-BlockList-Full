@@ -209,9 +209,9 @@ urls=(
 # ===  🟢 Wildcard Asterisk
 "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
 # ===  🟢 Wildcard Domains
-# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt"
 # ===  🟢 RPZ
-# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt"
 # =========== END
 )
 
