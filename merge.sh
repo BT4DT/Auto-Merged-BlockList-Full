@@ -201,17 +201,17 @@ urls=(
 # ===  🟢 Hosts
 "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt"
 # ===  🟢 Hosts Compressed
-"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro-compressed.txt"
+# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro-compressed.txt"
 # ===  🟢 Adblock
 "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
 # ===  🟢 DNSMasq
-"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt"
+# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt"
 # ===  🟢 Wildcard Asterisk
-"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
+# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
 # ===  🟢 Wildcard Domains
-"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt"
+# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt"
 # ===  🟢 RPZ
-"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt"
+# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt"
 # =========== END
 )
 
