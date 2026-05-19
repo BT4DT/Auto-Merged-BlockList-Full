@@ -203,7 +203,7 @@ urls=(
 # ===  🟢 Hosts Compressed
 # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro-compressed.txt"
 # ===  🟢 Adblock
-"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+# "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
 # ===  🟢 DNSMasq
 # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt"
 # ===  🟢 Wildcard Asterisk
