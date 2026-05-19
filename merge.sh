@@ -232,7 +232,6 @@ sort -u cleaned.txt > merged_clean.txt
 cat <<EOF > whitelist.txt
 # ==== WHITELIST ====
 # remove # to enable
-@@||google.com^$important
 @@||dns.google.com^$important
 @@||cloudflare.com^$important
 @@||cloudflare-dns.com^$important
@@ -255,24 +254,7 @@ cat <<EOF > whitelist.txt
 @@||zerotier.com^$important
 @@||goodcloud.xyz^$important
 @@||astrowarp.net^$important
-@@||mail.google.com^$important
-@@||drive.google.com^$important
-@@||docs.google.com^$important
-@@||calendar.google.com^$important
-@@||accounts.google.com^$important
-@@||scholar.google.com^$important
 @@||youtubei.googleapis.com^$important
-@@||maps.google.com^$important
-@@||chat.google.com^$important
-@@||translate.google.com^$important
-@@||play.google.com^$important
-@@||lens.google.com^$important
-@@||chromewebstore.google.com^$important
-@@||ssocks.tunnelbear.com^$important
-#@@||icloud.com^$important
-#@@||apple.com^$important
-#@@||yahoo.com^$important
-#@@||onedrive.com^$important
 EOF
 
 # ===== final =====
