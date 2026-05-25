@@ -68,7 +68,7 @@ urls=(
 # === X 🔴 IDN: ABPindo -filter_22.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt"
 # === 🟢  IRN: PersianBlocker list -filter_19.txt:: Adguard
-#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt"
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt"
 # === X 🔴 ISR: EasyList Hebrew -filter_43.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt"
 # === X 🔴 KOR: List-KR DNS -filter_25.txt:: Adguard
@@ -186,15 +186,15 @@ urls=(
 #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt"
 # =========== IRN
 # ===  🟢 Persian -PersianBlocker-Deprecated.txt :: Persian
-"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlocker-Deprecated.txt"
+#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlocker-Deprecated.txt"
 # ===  🟢 Persian -PersianBlockerAds-Domains.txt:: Persian
-"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Domains.txt"
+#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Domains.txt"
 # ===  🟢 Persian -PersianBlockerAds-Hosts.txt:: Persian
-"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Hosts.txt"
+#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Hosts.txt"
 # ===  🟢 Persian -PersianBlockerAds.txt:: Persian
-"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds.txt"
+#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds.txt"
 # ===  🟢 Persian -PersianBlockerHosts.txt:: Persian
-"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerHosts.txt"
+#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerHosts.txt"
 # =========== Hagezi- Multi PRO - Extended protection
 # ===  🟢 Domains Subdomains
 #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt"
