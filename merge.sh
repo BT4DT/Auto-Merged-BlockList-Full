@@ -126,91 +126,91 @@ urls=(
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt"
 # =========== DNSFORGE
 # ===  🟢 blocklist.list :: DNSFORGE
-#"https://dnsforge.de/blocklist.list"
+"https://dnsforge.de/blocklist.list"
 # ===  🟢 hosts :: DNSFORGE
-#"https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+"https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
 # ===  🟢 notrack-blocklist.txt :: DNSFORGE
-#"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt"
+"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt"
 # ===  🟢 notrack-malware.txt :: DNSFORGE
-#"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt"
+"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt"
 # ===  🟢 spy.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+"https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
 # ===  🟢 oisd.nl :: DNSFORGE
-#"https://big.oisd.nl/"
+"https://big.oisd.nl/"
 # ===  🟢 basic.txt :: DNSFORGE
-#"https://blocklistproject.github.io/Lists/basic.txt"
+"https://blocklistproject.github.io/Lists/basic.txt"
 # ===  🟢 phishing.txt :: DNSFORGE
-#"https://blocklistproject.github.io/Lists/phishing.txt"
+"https://blocklistproject.github.io/Lists/phishing.txt"
 # ===  🟢 ransomware.txt :: DNSFORGE
-#"https://blocklistproject.github.io/Lists/ransomware.txt"
+"https://blocklistproject.github.io/Lists/ransomware.txt"
 # ===  🟢 tracking.txt :: DNSFORGE
-#"https://blocklistproject.github.io/Lists/tracking.txt"
+"https://blocklistproject.github.io/Lists/tracking.txt"
 # ===  🟢 domains.txt :: DNSFORGE
-#"https://hole.cert.pl/domains/v2/domains.txt"
+"https://hole.cert.pl/domains/v2/domains.txt"
 # ===  🟢 adblock.txt :: DNSFORGE
-#"https://o0.pages.dev/Lite/adblock.txt"
+"https://o0.pages.dev/Lite/adblock.txt"
 # ===  🟢 AmazonFireTV.txt :: DNSFORGE
-#"https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt"
+"https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt"
 # ===  🟢 pro.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
 # ===  🟢 native.amazon.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt"
 # ===  🟢 native.apple.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt"
 # ===  🟢 native.huawei.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt"
 # ===  🟢 native.winoffice.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt"
 # ===  🟢 native.tiktok.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt"
 # ===  🟢 native.lgwebos.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt"
 # ===  🟢 native.xiaomi.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt"
 # ===  🟢 native.oppo-realme.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.oppo-realme.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.oppo-realme.txt"
 # ===  🟢 native.vivo.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.vivo.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.vivo.txt"
 # ===  🟢 quad9_blocklist.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt"
+"https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt"
 # ===  🟢 filter_50.txt :: DNSFORGE
-#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt"
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt"
 # ===  🟢 phishing_army_blocklist.txt :: DNSFORGE
-#"https://phishing.army/download/phishing_army_blocklist.txt"
+"https://phishing.army/download/phishing_army_blocklist.txt"
 # ===  🟢 d3host.txt :: DNSFORGE
-#"https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt"
+"https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt"
 # ===  🟢 phishing-filter-agh.txt :: DNSFORGE
-#"https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt"
+"https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt"
 # ===== gambling domain =====
 # === X 🔴 gambling.txt :: DNSFORGE
 #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt"
 # =========== IRN
 # ===  🟢 Persian -PersianBlocker-Deprecated.txt :: Persian
-#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlocker-Deprecated.txt"
+"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlocker-Deprecated.txt"
 # ===  🟢 Persian -PersianBlockerAds-Domains.txt:: Persian
-#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Domains.txt"
+"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Domains.txt"
 # ===  🟢 Persian -PersianBlockerAds-Hosts.txt:: Persian
-#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Hosts.txt"
+"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds-Hosts.txt"
 # ===  🟢 Persian -PersianBlockerAds.txt:: Persian
-#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds.txt"
+"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerAds.txt"
 # ===  🟢 Persian -PersianBlockerHosts.txt:: Persian
-#"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerHosts.txt"
+"https://github.com/MasterKia/PersianBlocker/raw/refs/heads/main/PersianBlockerHosts.txt"
 # =========== Hagezi- Multi PRO - Extended protection
 # ===  🟢 Domains Subdomains
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt"
 # ===  🟢 Hosts
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt"
 # ===  🔴 Hosts Compressed
 # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro-compressed.txt"
 # ===  🟢 Adblock
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
 # ===  🟢 DNSMasq
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt"
 # ===  🟢 Wildcard Asterisk
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
 # ===  🟢 Wildcard Domains
-#"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt"
-# ===  🟢 RPZ
+"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt"
+# ===  🔴 RPZ
 # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt"
 # =========== END
 )
@@ -232,10 +232,10 @@ sort -u cleaned.txt > merged_clean.txt
 cat <<EOF > whitelist.txt
 # ==== WHITELIST ====
 # remove # to enable
-@@||dns.google.com^$important
-@@||cloudflare.com^$important
-@@||cloudflare-dns.com^$important
-@@||gstatic.com^$important
+#@@||dns.google.com^$important
+#@@||cloudflare.com^$important
+#@@||cloudflare-dns.com^$important
+#@@||gstatic.com^$important
 @@||dnsforge.de^$important
 @@||mymax.top^$important
 @@||dnsz.in^$important
@@ -249,12 +249,12 @@ cat <<EOF > whitelist.txt
 @@||snapp.site^$important
 @@||aptel.ir^$important
 @@||soft98.ir^$important
-@@||github.com^$important
-@@||tailscale.com^$important
-@@||zerotier.com^$important
-@@||goodcloud.xyz^$important
-@@||astrowarp.net^$important
-@@||youtubei.googleapis.com^$important
+#@@||github.com^$important
+#@@||tailscale.com^$important
+#@@||zerotier.com^$important
+#@@||goodcloud.xyz^$important
+#@@||astrowarp.net^$important
+#@@||youtubei.googleapis.com^$important
 EOF
 
 # ===== final =====
